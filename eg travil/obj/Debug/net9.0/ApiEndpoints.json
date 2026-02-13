@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "eg_trip_backend.Controllers.ProductsController",
+    "Method": "GetTest",
+    "RelativePath": "api/Products",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]
