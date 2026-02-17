@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Mega Store\\Desktop\\depi\\eg travil\\eg travil.csproj": {}
+    "C:\\Users\\Mega Store\\OneDrive\\Documents\\GitHub\\eg-trip\\eg travil\\eg travil.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Mega Store\\Desktop\\depi\\eg travil\\eg travil.csproj": {
+    "C:\\Users\\Mega Store\\OneDrive\\Documents\\GitHub\\eg-trip\\eg travil\\eg travil.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Mega Store\\Desktop\\depi\\eg travil\\eg travil.csproj",
+        "projectUniqueName": "C:\\Users\\Mega Store\\OneDrive\\Documents\\GitHub\\eg-trip\\eg travil\\eg travil.csproj",
         "projectName": "eg travil",
-        "projectPath": "C:\\Users\\Mega Store\\Desktop\\depi\\eg travil\\eg travil.csproj",
+        "projectPath": "C:\\Users\\Mega Store\\OneDrive\\Documents\\GitHub\\eg-trip\\eg travil\\eg travil.csproj",
         "packagesPath": "C:\\Users\\Mega Store\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Mega Store\\Desktop\\depi\\eg travil\\obj\\",
+        "outputPath": "C:\\Users\\Mega Store\\OneDrive\\Documents\\GitHub\\eg-trip\\eg travil\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
