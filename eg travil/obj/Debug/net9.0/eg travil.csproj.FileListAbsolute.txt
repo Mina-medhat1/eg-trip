@@ -1,0 +1,70 @@
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\appsettings.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\package-lock.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\package.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\eg travil.staticwebassets.endpoints.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\eg travil.exe
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\eg travil.deps.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\eg travil.runtimeconfig.json
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\eg travil.dll
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\eg travil.pdb
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mega Store\Desktop\depi\eg travil\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.csproj.AssemblyReference.cache
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.AssemblyInfoInputs.cache
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.AssemblyInfo.cs
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\scopedcss\bundle\eg travil.styles.css
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\staticwebassets.upToDateCheck.txt
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.csproj.Up2Date
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.dll
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\refint\eg travil.dll
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.pdb
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\eg travil.genruntimeconfig.cache
+C:\Users\Mega Store\Desktop\depi\eg travil\obj\Debug\net9.0\ref\eg travil.dll
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\appsettings.Development.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\appsettings.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\package-lock.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\package.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\eg travil.staticwebassets.endpoints.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\eg travil.exe
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\eg travil.deps.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\eg travil.runtimeconfig.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\eg travil.dll
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\eg travil.pdb
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\Microsoft.AspNetCore.OpenApi.dll
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\bin\Debug\net9.0\Microsoft.OpenApi.dll
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.csproj.AssemblyReference.cache
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\rpswa.dswa.cache.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.AssemblyInfoInputs.cache
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.AssemblyInfo.cs
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.csproj.CoreCompileInputs.cache
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.sourcelink.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\rjimswa.dswa.cache.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\rjsmrazor.dswa.cache.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\rjsmcshtml.dswa.cache.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\scopedcss\bundle\eg travil.styles.css
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\staticwebassets.build.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\staticwebassets.build.json.cache
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\staticwebassets.development.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\staticwebassets.build.endpoints.json
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.csproj.Up2Date
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.dll
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\refint\eg travil.dll
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.pdb
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\eg travil.genruntimeconfig.cache
+C:\Users\Mega Store\OneDrive\Documents\GitHub\eg-trip\eg travil\obj\Debug\net9.0\ref\eg travil.dll
